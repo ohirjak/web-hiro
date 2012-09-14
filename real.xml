@@ -5,9 +5,10 @@
 	<title>Hiro's homepage</title>
 	<body>
 		<item name="About">
-			Here you can find some information about me, some of my interests and contact. Stay tuned, more content is being prepared (I'll try to update this site regularly to keep things up-to-date).
+			Here you can find some information about me, some of my interests and contact. Stay tuned, more content is being prepared (I'll try to update this site regularly to keep things up-to-date).<nl/><nl/>
+			In the meantime this site is quite outdated - last update was in 2009. Only thing updated now is my CV...
 			<subitem name="Info">
-				Ondrej Hirjak AKA Hiro, graduate of <link res="http://www.fiit.stuba.sk/">FIIT </link> <link res="http://www.stuba.sk/">STUBA </link> <link res="http://en.wikipedia.org/wiki/Slovakia">Slovakia</link> (Software Engineering, Master Degree Course), currently pursuing doctoral degree at the same university.<nl/><nl/>
+				Ondrej Hirjak AKA Hiro, graduate of <link res="http://www.fiit.stuba.sk/">FIIT</link> <link res="http://www.stuba.sk/">STUBA</link> <link res="http://en.wikipedia.org/wiki/Slovakia">Slovakia</link> (Software Engineering, Master Degree Course).<nl/><nl/>
 				Member of <link res="http://www.acm.org/">ACM</link>.<nl/>
 			</subitem>
 			<nl/>
@@ -18,11 +19,11 @@
 			CV available to download <link res="data/CV_en.pdf">here</link>.
 		</item>
 		<item name="Coding">
-<!--			<subitem name="Doctoral Degree">
-				In September 2009 I started to work on my doctoral thesis. Topic: real-time ray tracing and similar stuff. Sample picture from my work so far:<nl/><nl/>
+			<subitem name="Raytracing Experiments">
+				In September 2009 while I was teaching assistant at my university I started to work on my PhD thesis with topic: real-time ray tracing. Sample picture from my work so far:<nl/><nl/>
 				<image res="data/images/output" type="png"/><nl/>
-				Raytraced spheres with 2 lights (how original, I know :-D)
-			</subitem>-->
+				Raytraced spheres with 2 lights (how original, I know :-D). Eventually I dropped out...
+			</subitem>
 			<subitem name="C4 Engine">
 				I used to develop games in cooperation with <link res="http://www.lesnak.sk">archanger</link> using <link res="http://www.cipherengine.com/">Cipher Engine</link>. After that I moved to <link res="http://en.wikipedia.org/wiki/Linux">Linux</link> programming :-) But I still develop games as a hobbyist using <link res="http://www.terathon.com/c4engine/">C4 Engine</link>.<nl/><nl/>
 				<image res="data/images/C4_screen" type="png"/><nl/>
