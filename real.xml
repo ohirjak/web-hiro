@@ -21,7 +21,8 @@
 		<item name="Coding">
 			<subitem name="Raytracing Experiments">
 				In September 2009 while I was teaching assistant at my university I started to work on my PhD thesis with topic: real-time ray tracing. Sample picture from my work so far:<nl/><nl/>
-				<image res="data/images/output" type="png"/><nl/>
+				<image res="data/images/output" type="png"/>
+				<image res="data/images/output1" type="png"/><nl/>
 				Raytraced spheres with 2 lights (how original, I know :-D). Eventually I dropped out...
 			</subitem>
 			<subitem name="C4 Engine">
