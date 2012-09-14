@@ -75,7 +75,7 @@
 				Shoot'em down side-scroller (finally managed to add music to it - not audible ;-), DOS, Pascal).
 			</subitem>
 			<subitem name="Old school (like 20th century)">
-				I've dig out some old trash code from previous century :-) Just to show my beginings (DOS real mode, VGA 0x13 mode of course).<nl/><nl/>
+				I've dug out some old trash code from previous century :-) Just to show my beginings (DOS real mode, VGA 0x13 mode of course).<nl/><nl/>
 				<image res="data/images/footstep02" type="png"/>-
 				<image res="data/images/arkanoid02" type="png"/><nl/>
 				Never ever finished game (not even properly started to be honest) and Arkanoid 2001 clone (DOS, Pascal).<nl/><nl/>
