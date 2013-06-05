@@ -1,0 +1,71 @@
+body
+{
+	color:#FFFFFF;
+	background-color:#111111;
+	font-family: Verdana, Tahoma, Arial, Lucida, Helvetica, Arial, Sans-serif; 
+	font-size: 11px;
+}
+
+h1
+{
+	font-size: 24px;
+}
+
+h2
+{
+	font-size: 16px;
+}
+
+h3
+{
+	font-size: 13px;
+}
+
+h4
+{
+	font-size: 11.5px;
+}
+
+h5
+{
+	font-size: 10px;
+}
+
+table
+{
+	background-color:#333333;
+	font-size: 11px;
+}
+
+a:link
+{
+	color: #999999;
+}
+
+a:visited
+{
+	color: #CCCCCC;
+}
+
+a:hover
+{
+	color: #FFFFFF;
+}
+
+img
+{
+	border: 0;
+	border-color: #000000;
+}
+
+.header
+{
+	background: #000000;
+}
+
+.font_menu
+{
+	font-size: 13px;
+	background: #666666;
+}
+

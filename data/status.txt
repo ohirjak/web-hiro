@@ -1,0 +1,44 @@
+C4 Engine Linux Port progress status
+
+Target:
+
+Linux x86 (SSE2 processor required)
+
+
+Status:
+
+Build 2.0a
+- Tested on Ubuntu x86_64, Intel Core 2 Duo / NVIDIA GeForce 8800 GTS
+
+Previous versions
+- Tested on Gentoo x86, Intel Core Duo / ATI Mobility Radeon X1400 (not stable, probably ATI drivers)
+- Tested on Ubuntu x86, Intel Pentium M / ATI Mobility Radeon X300 (not stable, probably ATI drivers)
+- Tested on Ubuntu x86, Intel Pentium Dual / NVIDIA GeForce 7100
+- Tested on Ubuntu x86_64, Intel Core 2 Duo / NVIDIA GeForce 9300M GS
+- Tested on Ubuntu x86, Intel Core 2 Duo / NVIDIA Quadro FX 5500
+- Needs more testing
+
+
+Implementation:
+
+Display & Graphics Manager - X Window Extension & GLX
+
+Network Manager - BSD Sockets (almost identical to MACOS implementation)
+
+Sound Manager - ALSA
+
+Input & Event Manager - X Events Input, DGA X Window Extension
+
+System Utilities + Time, File Manager - pthread, POSIX compliant
+
+QuickTime Movies - NOT supported
+
+
+Known issues:
+
+Network Manager
+- synchronous name resolving (should by async)
+
+Input & Event Manager
+- mouse & keyboard support only
+
