@@ -6,7 +6,7 @@
 	<body>
 		<item name="About">
 			Here you can find some information about me, some of my interests and contact. Stay tuned, more content is being prepared (I'll try to update this site regularly to keep things up-to-date).<nl/><nl/>
-			In the meantime this site is quite outdated - last update was in 2009. Only thing updated now is my CV...
+			In the meantime this site is quite outdated - last update was in 2009.
 			<subitem name="Info">
 				Ondrej Hirjak AKA Hiro, graduate of <link res="http://www.fiit.stuba.sk/">FIIT</link> <link res="http://www.stuba.sk/">STUBA</link> <link res="http://en.wikipedia.org/wiki/Slovakia">Slovakia</link> (Software Engineering, Master Degree Course).<nl/><nl/>
 				Member of <link res="http://www.acm.org/">ACM</link>.<nl/>
@@ -16,7 +16,7 @@
 			<list>
 				<point>e-mail: ohirjak [at] gmail [dot] com</point>
 			</list>
-			CV available to download <link res="data/CV_en.pdf">here</link>.
+			You can check my LinkedIn profile <link res="http://sk.linkedin.com/in/ohirjak">here</link>.
 		</item>
 		<item name="Coding">
 			<subitem name="Raytracing Experiments">
