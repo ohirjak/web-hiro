@@ -1,0 +1,38 @@
+body
+{
+	color:#FFFFFF;
+	background-color:#111111;
+	font-family: Verdana, Tahoma, Arial, Lucida, Helvetica, Arial, Sans-serif; 
+	font-size: 11px;
+    text-align: center;
+}
+
+.main
+{
+	background-color:#333333;
+	font-size: 11px;
+	height: 100%;
+	display: inline-block;
+}
+
+.content {
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	margin: 8px;
+}
+
+a:link
+{
+	color: #999999;
+}
+
+a:visited
+{
+	color: #CCCCCC;
+}
+
+a:hover
+{
+	color: #FFFFFF;
+}
