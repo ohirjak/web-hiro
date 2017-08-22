@@ -28,6 +28,9 @@ sudo -u postgres psql -U user -W -d DB
  
 # Upload file to SK nexus
 curl -v --user 'admin:admin123' --upload-file <file> http://docker/repository/artefacts/<project>/<file>
+
+# Query cert info
+openssl pkcs12 -info -in cert.p12 
 ```
 ## Network
 ```
