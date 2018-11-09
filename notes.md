@@ -58,15 +58,17 @@ echo "success" | mail -s "This is test mail" -r "test@domain.com" ohirjak@gmail.
 ```
 ## Docker
 ```
+# docker login --email=o.hirjak@gmail.com --username=admin --password=admin123 docker:443
+docker login --username=admin --password=admin123 docker.sk.v-env.net:443
+docker push docker:443/admin/<image>
+
 ssh root@192.168.15.187 -L 10.20.0.17:1601:192.168.0.1:1601
+docker pull docker.sk.v-env.net:443/admin/vgm
 docker run -d -p 18004:18001 docker:443/admin/<image>
 docker exec -ti <instance> bash
 docker rm <instance>
 
 docker tag 35a5a2e242a0 docker:443/admin/<image>
-
-docker login --email=o.hirjak@gmail.com --username=admin --password=admin123 docker:443
-docker push docker:443/admin/<image>
 ```
 ## Simple listener
 ```
